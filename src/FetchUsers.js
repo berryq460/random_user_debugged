@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { FaPhone, FaUserAlt } from 'react-icons/fa'
 import { AiOutlineMail } from 'react-icons/ai'
-
+import moment from 'moment'
 
 const url = `https://randomuser.me/api`
 
